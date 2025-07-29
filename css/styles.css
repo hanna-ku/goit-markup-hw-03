@@ -106,10 +106,16 @@ img {display: block;}
         line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #ffffff;}
+        color: #ffffff;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 48px;
+    }
 
 .banner-button {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     min-width: 169px;
     height: 56px;
     border: none;
@@ -189,6 +195,7 @@ img {display: block;}
     background-color: #FFFFFF;}
 
 .team-box {padding: 32px 0;}
+
 .team .feature-title {text-align: center;}
 .team .feature-text {text-align: center;}
 
